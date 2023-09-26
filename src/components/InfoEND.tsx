@@ -43,3 +43,5 @@ export const InfoEND = () => {
     </>
   )
 }
+
+export default InfoEND;
